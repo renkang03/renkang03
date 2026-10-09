@@ -26,7 +26,7 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[Endless Runner](https://github.com/renkang03/endless-runner)** | One-button browser game with a custom game loop, collision, and difficulty scaling. AI player coming next. | JavaScript · HTML5 Canvas |
+| **[Endless Runner](https://github.com/renkang03/endless_runner)** | One-button browser game with a custom game loop, collision, and difficulty scaling. AI player coming next. | JavaScript · HTML5 Canvas |
 | **[LeetCode](https://github.com/renkang03/LeetCode)** | Solutions and notes from practicing data structures and algorithms. | — |
 | **[Portfolio site](https://github.com/renkang03/renkanglee.github.io)** | Personal site hosted on GitHub Pages. | HTML · CSS |
 
