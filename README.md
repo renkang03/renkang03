@@ -59,5 +59,5 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-renkang03-181717?style=flat-square&logo=github)](https://github.com/renkang03)
 <!-- Add your own: LinkedIn, email, portfolio site -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--name-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/ren-kang-lee) 
-[![Email](https://img.shields.io/badge/Email-you@example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rk8lee@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RenKangLee-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/ren-kang-lee) 
+[![Email](https://img.shields.io/badge/Email-rk8lee@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rk8lee@gmail.com) 
